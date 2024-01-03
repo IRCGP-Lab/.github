@@ -1,6 +1,8 @@
 # IRCGP-Lab
 
-Welcome to the Github organization of the IRCGP lab. Here, we aim to collect and manage all bioinformatics-related projects in the lab.
+Welcome to the Github organization of the IRCGP lab. 
+
+All bioinformatics-related projects in the lab are collected and managed in this organization.
 
 ## How-to
 
